@@ -1,0 +1,19 @@
+---
+title: "CV"
+output: html_document
+---
+
+<style>
+.title {
+    display: none;
+}
+</style>
+
+If my CV does not appear below, you can <a href="documents/AlyssaOrtegaCV.pdf" download>click here to download</a>.
+
+<embed
+    src="documents/AlyssaOrtegaCV.pdf"
+    type="application/pdf"
+    width="100%"
+    height="600px"
+/>

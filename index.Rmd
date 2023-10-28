@@ -1,0 +1,42 @@
+---
+title: "About"
+output: html_document
+---
+<style type="text/css">
+
+.title {
+    display: none;}
+
+
+.heading {
+  margin:0 ; /* Remove margin around the image */
+  padding-left: 140px /* Remove padding within the image */
+}
+
+
+.bottom-stuff {
+    padding-top: 10px;
+    padding-right: 25px;
+    padding-left: 25px;
+  }
+  
+</style>
+
+
+<div class="heading">
+  <img src="images/header.jpg" alt="photo" width="597" height="310">
+</div>
+
+
+
+<div class= "bottom-stuff">
+### Research Interests
+Broadly, I am interested in how gesture can be employed as a technique to boost learning. How is gesture used to inspire new insights? Can gesture help people to  learn new word meaning or even aquire a second language? Does the helpfulness of gesture vary across the lifespan and/or across cultures? Are the effects of using gesture as a tool long or short lasting?
+
+### Academic Bio
+
+I am currently the full time lab manager of two labs at the [University of California, Merced](https://cogsci.ucmerced.edu) where I recently graduated from with a B.A. in Psychology & Cognitive Science. I now work in the Cognitive & Information Sciences department under [Dr. Tyler Marghetis](https://https://www.tylermarghetis.com/) and [Dr. Rachel Ryskin](https://linclab0.github.io) studying topics ranging from creativity, embodied cognition, and language processing. In these labs, I utilize a variety of methods such as behavioral experimentation, EEG, and naturalistic observation & analysis.
+
+I am also in the process of applying to Cognitive Science & Psychology PhD programs for the Fall 2023 cycle.
+</div>
+
