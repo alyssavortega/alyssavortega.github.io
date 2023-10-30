@@ -13,6 +13,7 @@ output: html_document
   margin-left: auto;
   margin-right: auto;
   width: 63%;
+  height: 100%;
 }
 
 
@@ -26,7 +27,7 @@ output: html_document
 
 
 <div class="heading">
-  <img src="images/header.jpg" alt="photo" width="597" height="303">
+  <img src="images/header.jpg" alt="photo">
 </div>
 
 
