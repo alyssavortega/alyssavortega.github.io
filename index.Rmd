@@ -9,8 +9,10 @@ output: html_document
 
 
 .heading {
-  margin:0 ; /* Remove margin around the image */
-  padding-left: 140px /* Remove padding within the image */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 63%;
 }
 
 
@@ -24,7 +26,7 @@ output: html_document
 
 
 <div class="heading">
-  <img src="images/header.jpg" alt="photo" width="597" height="310">
+  <img src="images/header.jpg" alt="photo" width="597" height="303">
 </div>
 
 
