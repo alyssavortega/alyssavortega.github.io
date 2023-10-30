@@ -9,7 +9,7 @@ output: html_document
 }
 </style>
 
-If my CV does not appear below, you can <a href="documents/AlyssaOrtegaCV.pdf" download>click here to download</a>.
+If my CV does not appear below, you can <a href="documents/AlyssaOrtegaCV.pdf" download>click here to download</a>. Only the first page will appear below for mobile users.
 
 <embed
     src="documents/AlyssaOrtegaCV.pdf"
