@@ -12,8 +12,8 @@ output: html_document
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 63%;
-  height: 100%;
+  width: 42%;
+  height: 67%;
 }
 
 
