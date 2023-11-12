@@ -3,32 +3,56 @@ title: "About"
 output: html_document
 ---
 <style type="text/css">
+  .title {
+    display: none;
+  }
 
-.title {
-    display: none;}
+  .heading {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 42%;
+    height: 67%;
+  }
 
-
-.heading {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 42%;
-  height: 67%;
-}
-
-
-.bottom-stuff {
-    padding-top: 10px;
+  .bottom-stuff {
+    padding-top: 20px;
     padding-right: 25px;
     padding-left: 25px;
   }
-  
+
+  figure {
+    display: flex;
+    justify-content: center; /* Center the content horizontally */
+  }
+
+  .image-left {
+    text-align: center; /* Center the content within the figure */
+    max-width: 400px; /* Set a maximum width for better control */
+    margin: 0 auto; /* Center the entire block horizontally */
+  }
+
+  .image-left img {
+    border-radius: 10px; /* Adjust the value to change the amount of rounding */
+  }
+
+  .image-left figcaption {
+    width: 100%;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: center;
+    line-width: 5px;
+  }
+    
 </style>
 
 
-<div class="heading">
-  <img src="images/header.jpg" alt="photo">
-</div>
+<figure class="image-left" style="padding-top: 10px;">
+    <img src= "images/grad_pic4.jpg" alt="photo" width="250" height="250" />
+    <figcaption>
+        <h3 style="padding-top:60px">Alyssa Ortega</h3>
+        <p>aortega59@ucmerced.edu</p>
+</figure>
 
 
 
