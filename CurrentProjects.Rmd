@@ -3,13 +3,18 @@ title: "Current Projects"
 output: html_document
 ---
 <style type="text/css">
-  .title {display:none;}
+  .title {
+  display:none;
+  }
   
   .projects {padding-left: 10px;padding=top: 10px}
   
 </style>
 
-<div class="projects"> 
+<projects> 
+  <h3>[ATLAS](https://atlas-databank.github.io)</h3>
+  <p>The Abstract Thought and Language Across Space (ATLAS) databank is a compendium of published research on cross-cultural variability in the conceptualization of space, time, and number. Specifically, it collects published studies involving non-English-speaking participants that investigate: (1) spatial frames of reference, (2) spatial representations of time, and (3) spatial representations of number. The formation of this databank is actively in progress .</p>
+  
   <h3>Math Experts</h3> 
   <p>"What is the body doing, when the body does mathematics?"  When we imagine what creative problem solving looks like, we may envision something similar to Auguste Rodin's "The Thinker." However, when 8 PhD level mathematicians in their natural environment (at a black board with a piece of chalk) begin solving various problems, we see a combination of gesture, movement, and niche construction. The Math Experts video corpus provides us new evidence of what creative thinking truly looks like and inspires new questions about the impact of proximity change. </p> 
 
@@ -19,6 +24,4 @@ output: html_document
   <h3>NoisyP6</h3>
   <p>In accordance with the Noisy-Channel framework, listeners are constantly filtering various sources of noise such as speaker errors, misinterpretation, and environmental noise in order to extract intended meanings from a speakers. Comprehenders are more likely to understand the intended meaning if: 1. the meaning of the speaker’s error is easily recoverable and 2. the environmental noise rate is perceived to be high, allowing the comprehender to expect these errors in advance. Online real-time processing involves the use of N400 and P600 ERP components at varying amplitudes to determine the probability of noisy-channel inferences. This study aims to replicate and expand on previous research by investigating whether the sizes of N400 and P600 effects are impacted by the noise rate. This is being accomplished by manipulating error proportions in non-target sentences between-subjects, and manipulating error type (semantic, syntactic, recoverable) within-subjects. Data collection is currently ongoing with a planned N = 48. </p>
 
-  <h3>ATLAS</h3>
-  <p>The Abstract Thought and Language Across Space (ATLAS) databank is a compendium of published research on cross-cultural variability in the conceptualization of space, time, and number. Specifically, it collects published studies involving non-English-speaking participants that investigate: (1) spatial frames of reference, (2) spatial representations of time, and (3) spatial representations of number. The formation of this databank is actively in progress .</p>
-</div>
+</projects>
